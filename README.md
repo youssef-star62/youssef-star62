@@ -10,10 +10,9 @@ I help businesses turn messy data into clear, actionable decisions using Power B
 
 | Project | Tools | Highlights |
 |---|---|---|
+| **[Sales Performance Dashboard](https://github.com/youssef-star62/sales-performance-dashboard)** • [Live Demo](https://www.novypro.com/project/sales-performance-dashboard-41) | Power BI, DAX, Bookmarks, Drill-through | 7-page enterprise dashboard with custom tooltips, drill-through navigation, and root cause analysis |
 | **[Meta Ads Intelligence Dashboard](https://github.com/youssef-star62/meta-ads-intelligence-dashboard)** | Power BI, Python, DAX | 5-page dashboard, 37 DAX measures, K-means creative clustering |
 | **[Coffee Shop Power BI Dashboard](https://github.com/youssef-star62/Coffee-Shop-Power-BI-Dashboard)** | Power BI, DAX, Power Query | RFM segmentation on 17K customers, 306K events |
-| **Sales Performance Dashboard** • [Live Demo](https://www.novypro.com/project/sales-performance-dashboard-41) | Power BI, DAX, Bookmarks, Drill-through | 7-page enterprise dashboard with custom tooltips, drill-through navigation, and root cause analysis |
-
 ---
 
 ## 🛠️ Tech Stack
